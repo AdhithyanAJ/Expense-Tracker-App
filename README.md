@@ -16,7 +16,7 @@ A modern Expense Tracker application built with **Flutter** and **Dart** that he
 
 Watch the application in action:
 
-**➡️ [Demo Video](PASTE_YOUR_DEMO_VIDEO_LINK_HERE)**
+**➡️ [Demo Video](media)**
 
 ## 🛠️ Built With
 
